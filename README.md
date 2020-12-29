@@ -12,3 +12,9 @@
 ## Now i'm going to learn Markdown and write a blog. 
 
   
+# here is my code   
+  
+ ```python
+ print("hello world")
+ 
+ ```
